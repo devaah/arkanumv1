@@ -5,9 +5,9 @@
 "keyWords" : "keyword1,keyword2",
 "version" : "1.0.0",
 "dofusVersion" : "2.50",
-"description" : "Thème pour les membres d'Arkanum",
-"url" : "L'URL d'hébergement du thème",
-"previewUrl" : "L'URL d'hébergement de l'image de présentation",
+"description" : "ThÃ¨me pour les membres d'Arkanum",
+"url" : "https://github.com/devaah/arkanumv1/blob/master/Arkanum.V1.7z?raw=true",
+"previewUrl" : "https://github.com/devaah/arkanumv1/blob/master/arkanum.jpg?raw=true",
 "creationDate" : "16/02/2019",
 "modificationDate" : "16/02/2019"
 }
